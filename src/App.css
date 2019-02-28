@@ -23,6 +23,19 @@
   color: #61dafb;
 }
 
+table, td, th {
+   
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    height: 50px;
+  }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
